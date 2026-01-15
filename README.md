@@ -155,7 +155,7 @@ While the PTK is global to the MLD, broadcast and multicast traffic is inherentl
 | **IGTK** (Integrity GTK) | **Per-Link** | Protects broadcast *management* frames (PMF) on a specific link. |
 | **BIGTK** (Beacon Integrity GTK) | **Per-Link** | Protects Beacon frames on a specific link. |
 
-6
+[6]
 
 ### **3.3 Enhanced 4-Way Handshake with MLO KDEs**
 
